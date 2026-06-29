@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Which country was Vincent van Gogh born in?",
+      "options": [
+        { "correct": false, "choice": "France" },
+        { "correct": true, "choice": "The Netherlands" },
+        { "correct": false, "choice": "Belgium" },
+        { "correct": false, "choice": "Germany" }
+      ]
+    },
+    {
+      "question": "Which famous painting by Van Gogh shows a swirling night sky over a village?",
+      "options": [
+        { "correct": true, "choice": "The Starry Night" },
+        { "correct": false, "choice": "Sunflowers" },
+        { "correct": false, "choice": "The Bedroom" },
+        { "correct": false, "choice": "Irises" }
+      ]
+    },
+    {
+      "question": "Which flower did Van Gogh paint in one of his most famous series?",
+      "options": [
+        { "correct": false, "choice": "Roses" },
+        { "correct": true, "choice": "Sunflowers" },
+        { "correct": false, "choice": "Tulips" },
+        { "correct": false, "choice": "Lilies" }
+      ]
+    },
+    {
+      "question": "Van Gogh is best known for paintings with what kind of brushwork?",
+      "options": [
+        { "correct": false, "choice": "Smooth and invisible" },
+        { "correct": false, "choice": "Very geometric and flat" },
+        { "correct": true, "choice": "Bold and expressive" },
+        { "correct": false, "choice": "Photographic and precise" }
+      ]
+    }
+  ]
+}

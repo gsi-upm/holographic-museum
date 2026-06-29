@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Which African-influenced Picasso painting from 1907 is regarded as revolutionary in modern art?",
+      "options": [
+        { "correct": false, "choice": "The Old Guitarist" },
+        { "correct": true, "choice": "Les Demoiselles d'Avignon" },
+        { "correct": false, "choice": "Woman with a Hat" },
+        { "correct": false, "choice": "Nude Descending a Staircase" }
+      ]
+    },
+    {
+      "question": "Which phase followed Picasso's Blue Period and introduced warmer pink and orange tones?",
+      "options": [
+        { "correct": false, "choice": "Analytical Period" },
+        { "correct": false, "choice": "Classical Period" },
+        { "correct": true, "choice": "Rose Period" },
+        { "correct": false, "choice": "Surrealist Period" }
+      ]
+    },
+    {
+      "question": "In 'Guernica', which animal is prominently interpreted as a symbol of brutality or darkness?",
+      "options": [
+        { "correct": false, "choice": "Horse" },
+        { "correct": false, "choice": "Dove" },
+        { "correct": true, "choice": "Bull" },
+        { "correct": false, "choice": "Dog" }
+      ]
+    },
+    {
+      "question": "Which of these Picasso works is a synthetic Cubist composition featuring three masked performers?",
+      "options": [
+        { "correct": false, "choice": "Girl before a Mirror" },
+        { "correct": false, "choice": "La Vie" },
+        { "correct": true, "choice": "Three Musicians" },
+        { "correct": false, "choice": "Massacre in Korea" }
+      ]
+    }
+  ]
+}

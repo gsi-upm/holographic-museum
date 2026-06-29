@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Dalí was inspired by the theories of which famous scientist?",
+      "options": [
+        { "correct": false, "choice": "Isaac Newton" },
+        { "correct": false, "choice": "Galileo Galilei" },
+        { "correct": true, "choice": "Albert Einstein" },
+        { "correct": false, "choice": "Marie Curie" }
+      ]
+    },
+    {
+      "question": "Dalí described his creative process as:",
+      "options": [
+        { "correct": true, "choice": "Paranoiac-critical method" },
+        { "correct": false, "choice": "Automatic writing" },
+        { "correct": false, "choice": "Cubist sketching" },
+        { "correct": false, "choice": "Minimalist reduction" }
+      ]
+    },
+    {
+      "question": "Dalí's works often reflect his fascination with:",
+      "options": [
+        { "correct": true, "choice": "The unconscious mind and dreams" },
+        { "correct": false, "choice": "Mathematical geometry" },
+        { "correct": false, "choice": "Political manifestos" },
+        { "correct": false, "choice": "Natural history" }
+      ]
+    },
+    {
+      "question": "Dalí’s 'The Persistence of Memory' is sometimes interpreted as a reflection on:",
+      "options": [
+        { "correct": false, "choice": "The progress of technology" },
+        { "correct": false, "choice": "The importance of tradition" },
+        { "correct": false, "choice": "Religious ritual" },
+        { "correct": true, "choice": "The fluidity of time and memory" }
+      ]
+    }
+  ]
+}

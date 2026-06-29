@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Which painting by Picasso is often considered a key step toward the development of Cubism?",
+      "options": [
+        { "correct": true, "choice": "Les Demoiselles d'Avignon" },
+        { "correct": false, "choice": "The Weeping Woman" },
+        { "correct": false, "choice": "Girl before a Mirror" },
+        { "correct": false, "choice": "Three Musicians" }
+      ]
+    },
+    {
+      "question": "Picasso's Blue Period is characterized mainly by which feature?",
+      "options": [
+        { "correct": false, "choice": "Bright landscapes and outdoor scenes" },
+        { "correct": true, "choice": "Sad subjects painted in blue tones" },
+        { "correct": false, "choice": "Geometric still lifes in warm colors" },
+        { "correct": false, "choice": "Religious scenes with golden backgrounds" }
+      ]
+    },
+    {
+      "question": "Which Picasso painting portrays the bombing of a Basque town during the Spanish Civil War?",
+      "options": [
+        { "correct": false, "choice": "La Vie" },
+        { "correct": false, "choice": "Harlequin" },
+        { "correct": true, "choice": "Guernica" },
+        { "correct": false, "choice": "The Old Guitarist" }
+      ]
+    },
+    {
+      "question": "What subject is shown in Picasso's painting 'The Weeping Woman'?",
+      "options": [
+        { "correct": false, "choice": "A dancer performing on stage" },
+        { "correct": true, "choice": "A crying woman with a handkerchief" },
+        { "correct": false, "choice": "A mother and child in a garden" },
+        { "correct": false, "choice": "A group of musicians in costume" }
+      ]
+    }
+  ]
+}

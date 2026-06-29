@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Who was Salvador Dalí?",
+      "options": [
+        { "correct": true, "choice": "A famous surrealist artist" },
+        { "correct": false, "choice": "A classical composer" },
+        { "correct": false, "choice": "An architect from the Renaissance" },
+        { "correct": false, "choice": "An abstract sculptor" }
+      ]
+    },
+    {
+      "question": "Which famous painting did Salvador Dalí create?",
+      "options": [
+        { "correct": false, "choice": "Starry Night" },
+        { "correct": false, "choice": "Guernica" },
+        { "correct": true, "choice": "The Persistence of Memory" },
+        { "correct": false, "choice": "Water Lilies" }
+      ]
+    },
+    {
+      "question": "What unusual feature often appears in Dalí's paintings?",
+      "options": [
+        { "correct": false, "choice": "Flying cars" },
+        { "correct": true, "choice": "Melting clocks" },
+        { "correct": false, "choice": "Neon signs" },
+        { "correct": false, "choice": "Realistic cityscapes" }
+      ]
+    },
+    {
+      "question": "What art movement is Salvador Dalí associated with?",
+      "options": [
+        { "correct": false, "choice": "Impressionism" },
+        { "correct": false, "choice": "Cubism" },
+        { "correct": true, "choice": "Surrealism" },
+        { "correct": false, "choice": "Baroque" }
+      ]
+    }
+  ]
+}

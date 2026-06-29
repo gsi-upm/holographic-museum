@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿Qué movimiento artístico ayudó a popularizar Dalí?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Futurismo"
+        },
+        {
+          "correct": true,
+          "choice": "Surrealismo"
+        },
+        {
+          "correct": false,
+          "choice": "Minimalismo"
+        },
+        {
+          "correct": false,
+          "choice": "Arte conceptual"
+        }
+      ]
+    },
+    {
+      "question": "El elemento característico de Dalí en sus pinturas suele ser:",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Precisión geométrica"
+        },
+        {
+          "correct": false,
+          "choice": "Realismo fotográfico"
+        },
+        {
+          "correct": false,
+          "choice": "Símbolos políticos"
+        },
+        {
+          "correct": true,
+          "choice": "Imágenes oníricas"
+        }
+      ]
+    },
+    {
+      "question": "Dalí tenía un famoso bigote que se convirtió en símbolo de su:",
+      "options": [
+        {
+          "correct": true,
+          "choice": "Personalidad excéntrica"
+        },
+        {
+          "correct": false,
+          "choice": "Amor por el circo"
+        },
+        {
+          "correct": false,
+          "choice": "Interés por los deportes"
+        },
+        {
+          "correct": false,
+          "choice": "Antecedentes militares"
+        }
+      ]
+    },
+    {
+      "question": "¿Con qué gran compañía de entretenimiento colaboró Dalí?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Pixar"
+        },
+        {
+          "correct": true,
+          "choice": "Disney"
+        },
+        {
+          "correct": false,
+          "choice": "Universal Studios"
+        },
+        {
+          "correct": false,
+          "choice": "DreamWorks"
+        }
+      ]
+    }
+  ]
+}

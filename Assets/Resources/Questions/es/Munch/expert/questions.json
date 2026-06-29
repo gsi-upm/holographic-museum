@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿Qué ciclo temático más amplio incluye muchas de las principales obras de Munch, como 'El grito' y 'El beso'?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "El Jinete Azul"
+        },
+        {
+          "correct": true,
+          "choice": "El friso de la vida"
+        },
+        {
+          "correct": false,
+          "choice": "La serie de los almiares"
+        },
+        {
+          "correct": false,
+          "choice": "Las pinturas negras"
+        }
+      ]
+    },
+    {
+      "question": "En el arte de Munch, ¿qué se interpreta más a menudo que expresa 'El grito'?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Victoria en la guerra"
+        },
+        {
+          "correct": false,
+          "choice": "Devoción religiosa"
+        },
+        {
+          "correct": true,
+          "choice": "Temor existencial y angustia psicológica"
+        },
+        {
+          "correct": false,
+          "choice": "Curiosidad científica"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué pintura de Munch retrata a una mujer de forma muy simbólica y controvertida, combinando sensualidad y espiritualidad?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Pubertad"
+        },
+        {
+          "correct": true,
+          "choice": "Madonna"
+        },
+        {
+          "correct": false,
+          "choice": "Vampiro"
+        },
+        {
+          "correct": false,
+          "choice": "Melancolía"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué preocupación recurrente en la obra de Munch ayudó a convertirlo en un importante precursor del expresionismo?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Detalle naturalista preciso"
+        },
+        {
+          "correct": false,
+          "choice": "Celebración de la vida aristocrática"
+        },
+        {
+          "correct": true,
+          "choice": "El estado emocional y psicológico interno del sujeto"
+        },
+        {
+          "correct": false,
+          "choice": "Abstracción geométrica estricta"
+        }
+      ]
+    }
+  ]
+}

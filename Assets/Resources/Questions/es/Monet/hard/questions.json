@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿A qué pintura de Monet de 1872 se le atribuye ampliamente haber dado nombre al impresionismo?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Mujer con sombrilla"
+        },
+        {
+          "correct": false,
+          "choice": "San Giorgio Maggiore al atardecer"
+        },
+        {
+          "correct": true,
+          "choice": "Impresión, sol naciente"
+        },
+        {
+          "correct": false,
+          "choice": "El jardín del artista en Giverny"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué monumento de Londres aparece en la serie atmosférica de Monet pintada entre niebla y luz cambiante?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Tower Bridge"
+        },
+        {
+          "correct": false,
+          "choice": "Catedral de San Pablo"
+        },
+        {
+          "correct": true,
+          "choice": "Las Casas del Parlamento"
+        },
+        {
+          "correct": false,
+          "choice": "Palacio de Buckingham"
+        }
+      ]
+    },
+    {
+      "question": "Las pinturas tardías de gran formato de Nenúfares de Monet fueron diseñadas para sumergir al espectador principalmente mediante ¿qué efecto?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Perspectiva lineal estricta"
+        },
+        {
+          "correct": true,
+          "choice": "Amplias superficies de color, luz y reflejo"
+        },
+        {
+          "correct": false,
+          "choice": "Relatos mitológicos detallados"
+        },
+        {
+          "correct": false,
+          "choice": "Contornos definidos y realismo académico"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué elemento del jardín aparece de forma destacada en varias pinturas de Monet en Giverny influidas por el diseño japonés?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Una fuente de mármol"
+        },
+        {
+          "correct": false,
+          "choice": "Una torre gótica"
+        },
+        {
+          "correct": true,
+          "choice": "Un puente japonés"
+        },
+        {
+          "correct": false,
+          "choice": "Un arco romano"
+        }
+      ]
+    }
+  ]
+}

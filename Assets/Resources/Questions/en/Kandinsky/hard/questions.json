@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Kandinsky is considered a pioneer of which style?",
+      "options": [
+        { "correct": false, "choice": "Hyperrealism" },
+        { "correct": false, "choice": "Photorealism" },
+        { "correct": true, "choice": "Abstract art" },
+        { "correct": false, "choice": "Neoclassicism" }
+      ]
+    },
+    {
+      "question": "Kandinsky believed that art could evoke:",
+      "options": [
+        { "correct": false, "choice": "Scientific facts" },
+        { "correct": true, "choice": "Sound and music" },
+        { "correct": false, "choice": "Historical timelines" },
+        { "correct": false, "choice": "Architectural styles" }
+      ]
+    },
+    {
+      "question": "Which country was Kandinsky originally from?",
+      "options": [
+        { "correct": false, "choice": "France" },
+        { "correct": true, "choice": "Russia" },
+        { "correct": false, "choice": "Germany" },
+        { "correct": false, "choice": "Austria" }
+      ]
+    },
+    {
+      "question": "What type of shapes often appear in Kandinsky’s work?",
+      "options": [
+        { "correct": false, "choice": "Realistic faces" },
+        { "correct": false, "choice": "Animals and nature" },
+        { "correct": false, "choice": "Architectural monuments" },
+        { "correct": true, "choice": "Circles and lines" }
+      ]
+    }
+  ]
+}

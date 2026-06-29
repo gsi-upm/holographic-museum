@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Who painted 'Las Meninas'?",
+      "options": [
+        { "correct": false, "choice": "Pablo Picasso" },
+        { "correct": false, "choice": "Leonardo da Vinci" },
+        { "correct": true, "choice": "Diego Velázquez" },
+        { "correct": false, "choice": "Claude Monet" }
+      ]
+    },
+    {
+      "question": "What type of painting is 'Las Meninas'?",
+      "options": [
+        { "correct": true, "choice": "A large royal family portrait" },
+        { "correct": false, "choice": "A religious fresco" },
+        { "correct": false, "choice": "A landscape painting" },
+        { "correct": false, "choice": "A modern abstract artwork" }
+      ]
+    },
+    {
+      "question": "Which young girl appears at the center of 'Las Meninas'?",
+      "options": [
+        { "correct": false, "choice": "Queen Isabella" },
+        { "correct": true, "choice": "Infanta Margarita Teresa" },
+        { "correct": false, "choice": "Saint Teresa" },
+        { "correct": false, "choice": "A famous dancer" }
+      ]
+    },
+    {
+      "question": "What unique feature does 'Las Meninas' include?",
+      "options": [
+        { "correct": true, "choice": "A mirror reflecting the king and queen" },
+        { "correct": false, "choice": "Stars painted in the sky" },
+        { "correct": false, "choice": "An image of the artist on a boat" },
+        { "correct": false, "choice": "A golden statue in the center" }
+      ]
+    }
+  ]
+}

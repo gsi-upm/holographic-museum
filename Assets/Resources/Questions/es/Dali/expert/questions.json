@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿En las teorías de qué científico famoso se inspiró Dalí?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Isaac Newton"
+        },
+        {
+          "correct": false,
+          "choice": "Galileo Galilei"
+        },
+        {
+          "correct": true,
+          "choice": "Albert Einstein"
+        },
+        {
+          "correct": false,
+          "choice": "Marie Curie"
+        }
+      ]
+    },
+    {
+      "question": "Dalí describió su proceso creativo como:",
+      "options": [
+        {
+          "correct": true,
+          "choice": "Método paranoico-crítico"
+        },
+        {
+          "correct": false,
+          "choice": "Escritura automática"
+        },
+        {
+          "correct": false,
+          "choice": "Bocetos cubistas"
+        },
+        {
+          "correct": false,
+          "choice": "Reducción minimalista"
+        }
+      ]
+    },
+    {
+      "question": "Las obras de Dalí reflejan a menudo su fascinación por:",
+      "options": [
+        {
+          "correct": true,
+          "choice": "La mente inconsciente y los sueños"
+        },
+        {
+          "correct": false,
+          "choice": "Geometría matemática"
+        },
+        {
+          "correct": false,
+          "choice": "Manifiestos políticos"
+        },
+        {
+          "correct": false,
+          "choice": "Historia natural"
+        }
+      ]
+    },
+    {
+      "question": "'La persistencia de la memoria' de Dalí se interpreta a veces como una reflexión sobre:",
+      "options": [
+        {
+          "correct": false,
+          "choice": "El progreso de la tecnología"
+        },
+        {
+          "correct": false,
+          "choice": "La importancia de la tradición"
+        },
+        {
+          "correct": false,
+          "choice": "Ritual religioso"
+        },
+        {
+          "correct": true,
+          "choice": "La fluidez del tiempo y la memoria"
+        }
+      ]
+    }
+  ]
+}

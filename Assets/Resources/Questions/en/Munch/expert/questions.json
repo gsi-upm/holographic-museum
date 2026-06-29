@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Which larger thematic cycle includes many of Munch's major works such as 'The Scream' and 'The Kiss'?",
+      "options": [
+        { "correct": false, "choice": "The Blue Rider" },
+        { "correct": true, "choice": "The Frieze of Life" },
+        { "correct": false, "choice": "The Haystacks Series" },
+        { "correct": false, "choice": "The Black Paintings" }
+      ]
+    },
+    {
+      "question": "In Munch's art, 'The Scream' is most often interpreted as expressing what?",
+      "options": [
+        { "correct": false, "choice": "Victory in war" },
+        { "correct": false, "choice": "Religious devotion" },
+        { "correct": true, "choice": "Existential dread and psychological anguish" },
+        { "correct": false, "choice": "Scientific curiosity" }
+      ]
+    },
+    {
+      "question": "Which Munch painting portrays a woman in a highly symbolic and controversial way, combining sensuality and spirituality?",
+      "options": [
+        { "correct": false, "choice": "Puberty" },
+        { "correct": true, "choice": "Madonna" },
+        { "correct": false, "choice": "Vampire" },
+        { "correct": false, "choice": "Melancholy" }
+      ]
+    },
+    {
+      "question": "Which recurring concern in Munch's work helped make him an important precursor to Expressionism?",
+      "options": [
+        { "correct": false, "choice": "Precise naturalistic detail" },
+        { "correct": false, "choice": "Celebration of aristocratic life" },
+        { "correct": true, "choice": "The inner emotional and psychological state of the subject" },
+        { "correct": false, "choice": "Strict geometric abstraction" }
+      ]
+    }
+  ]
+}

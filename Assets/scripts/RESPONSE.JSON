@@ -1,0 +1,21 @@
+{ "trivia": [
+    {
+      "question": "Multiple choice question",
+      "options": [
+        { "correct": "boolean", "choice": "Choice here" },
+        { "correct": "boolean", "choice": "Choice here" },
+        { "correct": "boolean", "choice": "Choice here" },
+        { "correct": "boolean", "choice": "Choice here" }
+      ]
+    },
+    {
+      "question": "Multiple choice question",
+      "options": [
+        { "correct": "boolean", "choice": "Choice here" },
+        { "correct": "boolean", "choice": "Choice here" },
+        { "correct": "boolean", "choice": "Choice here" },
+        { "correct": "boolean", "choice": "Choice here" }
+      ]
+    }
+]
+}

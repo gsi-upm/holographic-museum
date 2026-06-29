@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Where did Monet create many of his famous water lily paintings?",
+      "options": [
+        { "correct": false, "choice": "Arles" },
+        { "correct": true, "choice": "Giverny" },
+        { "correct": false, "choice": "Madrid" },
+        { "correct": false, "choice": "Vienna" }
+      ]
+    },
+    {
+      "question": "Which structure did Monet paint repeatedly in a famous series exploring light and atmosphere?",
+      "options": [
+        { "correct": false, "choice": "The Eiffel Tower" },
+        { "correct": true, "choice": "Rouen Cathedral" },
+        { "correct": false, "choice": "The Colosseum" },
+        { "correct": false, "choice": "Notre-Dame de Paris interior" }
+      ]
+    },
+    {
+      "question": "What was Monet especially interested in capturing in his paintings?",
+      "options": [
+        { "correct": false, "choice": "Precise historical accuracy" },
+        { "correct": true, "choice": "Changing light and atmosphere" },
+        { "correct": false, "choice": "Religious symbolism" },
+        { "correct": false, "choice": "Detailed mythological narratives" }
+      ]
+    },
+    {
+      "question": "Which series by Monet focuses on stacks of harvested grain painted under different conditions?",
+      "options": [
+        { "correct": false, "choice": "Poplars" },
+        { "correct": true, "choice": "Haystacks" },
+        { "correct": false, "choice": "The Japanese Bridge" },
+        { "correct": false, "choice": "Parliament" }
+      ]
+    }
+  ]
+}

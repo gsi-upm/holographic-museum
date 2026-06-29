@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "In which country did Diego Velázquez create 'Las Meninas'?",
+      "options": [
+        { "correct": false, "choice": "Italy" },
+        { "correct": true, "choice": "Spain" },
+        { "correct": false, "choice": "France" },
+        { "correct": false, "choice": "Netherlands" }
+      ]
+    },
+    {
+      "question": "Who can be seen painting inside 'Las Meninas'?",
+      "options": [
+        { "correct": false, "choice": "King Philip IV" },
+        { "correct": false, "choice": "Infanta Margarita" },
+        { "correct": true, "choice": "Diego Velázquez himself" },
+        { "correct": false, "choice": "Pablo Picasso" }
+      ]
+    },
+    {
+      "question": "What makes 'Las Meninas' unusual for its time?",
+      "options": [
+        { "correct": false, "choice": "It uses only black and white colors" },
+        { "correct": true, "choice": "It includes the artist inside the scene" },
+        { "correct": false, "choice": "It was painted outdoors" },
+        { "correct": false, "choice": "It shows a battle scene" }
+      ]
+    },
+    {
+      "question": "What element in 'Las Meninas' helps create a sense of depth?",
+      "options": [
+        { "correct": false, "choice": "A golden frame" },
+        { "correct": false, "choice": "Large windows on the ceiling" },
+        { "correct": true, "choice": "An open doorway in the background" },
+        { "correct": false, "choice": "A bright red floor" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Which asylum did Van Gogh enter, where he painted 'The Starry Night'?",
+      "options": [
+        { "correct": false, "choice": "Salpêtrière Hospital" },
+        { "correct": true, "choice": "Saint-Paul-de-Mausole" },
+        { "correct": false, "choice": "Hôtel-Dieu" },
+        { "correct": false, "choice": "Charenton" }
+      ]
+    },
+    {
+      "question": "Which Van Gogh work is notable for its Japanese-inspired composition and blossoming branches against a blue sky?",
+      "options": [
+        { "correct": false, "choice": "The Potato Eaters" },
+        { "correct": true, "choice": "Almond Blossom" },
+        { "correct": false, "choice": "The Red Vineyard" },
+        { "correct": false, "choice": "The Church at Auvers" }
+      ]
+    },
+    {
+      "question": "Which early Van Gogh painting depicts peasants gathered around a table eating a simple meal?",
+      "options": [
+        { "correct": true, "choice": "The Potato Eaters" },
+        { "correct": false, "choice": "The Sower" },
+        { "correct": false, "choice": "The Night Café" },
+        { "correct": false, "choice": "The Yellow House" }
+      ]
+    },
+    {
+      "question": "Which recurring quality in Van Gogh's mature work most strongly contributed to his later influence on Expressionism?",
+      "options": [
+        { "correct": false, "choice": "Strict classical balance" },
+        { "correct": false, "choice": "Careful imitation of Renaissance techniques" },
+        { "correct": true, "choice": "Emotionally charged color and energetic brushwork" },
+        { "correct": false, "choice": "Detailed academic realism" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿En qué país nació Edvard Munch?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Suecia"
+        },
+        {
+          "correct": true,
+          "choice": "Noruega"
+        },
+        {
+          "correct": false,
+          "choice": "Dinamarca"
+        },
+        {
+          "correct": false,
+          "choice": "Alemania"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué famosa pintura de Munch muestra una figura con expresión angustiada?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "El beso"
+        },
+        {
+          "correct": true,
+          "choice": "El grito"
+        },
+        {
+          "correct": false,
+          "choice": "Madonna"
+        },
+        {
+          "correct": false,
+          "choice": "La noche estrellada"
+        }
+      ]
+    },
+    {
+      "question": "¿Con qué enfoque artístico se asocia más fuertemente a Edvard Munch?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Cubismo"
+        },
+        {
+          "correct": false,
+          "choice": "Impresionismo"
+        },
+        {
+          "correct": true,
+          "choice": "Expresionismo"
+        },
+        {
+          "correct": false,
+          "choice": "Neoclasicismo"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué emoción transmite más famosamente 'El grito' de Munch?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Alegría"
+        },
+        {
+          "correct": false,
+          "choice": "Calma"
+        },
+        {
+          "correct": true,
+          "choice": "Ansiedad"
+        },
+        {
+          "correct": false,
+          "choice": "Orgullo"
+        }
+      ]
+    }
+  ]
+}

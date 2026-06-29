@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Which 1872 painting by Monet is widely credited with giving Impressionism its name?",
+      "options": [
+        { "correct": false, "choice": "Woman with a Parasol" },
+        { "correct": false, "choice": "San Giorgio Maggiore at Dusk" },
+        { "correct": true, "choice": "Impression, Sunrise" },
+        { "correct": false, "choice": "The Artist's Garden at Giverny" }
+      ]
+    },
+    {
+      "question": "Which London landmark appears in Monet's atmospheric series painted through fog and changing light?",
+      "options": [
+        { "correct": false, "choice": "Tower Bridge" },
+        { "correct": false, "choice": "St Paul's Cathedral" },
+        { "correct": true, "choice": "The Houses of Parliament" },
+        { "correct": false, "choice": "Buckingham Palace" }
+      ]
+    },
+    {
+      "question": "Monet's late large-scale Water Lilies paintings were designed to immerse the viewer mainly through what effect?",
+      "options": [
+        { "correct": false, "choice": "Strict linear perspective" },
+        { "correct": true, "choice": "Expansive surfaces of color, light, and reflection" },
+        { "correct": false, "choice": "Detailed mythological storytelling" },
+        { "correct": false, "choice": "Sharp outlines and academic realism" }
+      ]
+    },
+    {
+      "question": "Which garden feature appears prominently in several of Monet's Giverny paintings influenced by Japanese design?",
+      "options": [
+        { "correct": false, "choice": "A marble fountain" },
+        { "correct": false, "choice": "A Gothic tower" },
+        { "correct": true, "choice": "A Japanese bridge" },
+        { "correct": false, "choice": "A Roman arch" }
+      ]
+    }
+  ]
+}

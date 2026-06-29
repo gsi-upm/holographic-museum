@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿En qué país nació Claude Monet?",
+      "options": [
+        {
+          "correct": true,
+          "choice": "Francia"
+        },
+        {
+          "correct": false,
+          "choice": "Italia"
+        },
+        {
+          "correct": false,
+          "choice": "España"
+        },
+        {
+          "correct": false,
+          "choice": "Bélgica"
+        }
+      ]
+    },
+    {
+      "question": "¿Con qué movimiento artístico se asocia más estrechamente a Claude Monet?",
+      "options": [
+        {
+          "correct": true,
+          "choice": "Impresionismo"
+        },
+        {
+          "correct": false,
+          "choice": "Cubismo"
+        },
+        {
+          "correct": false,
+          "choice": "Surrealismo"
+        },
+        {
+          "correct": false,
+          "choice": "Barroco"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué tema natural aparece en una de las series de pinturas más famosas de Monet?",
+      "options": [
+        {
+          "correct": true,
+          "choice": "Nenúfares"
+        },
+        {
+          "correct": false,
+          "choice": "Girasoles"
+        },
+        {
+          "correct": false,
+          "choice": "Olivos"
+        },
+        {
+          "correct": false,
+          "choice": "Montañas"
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál es el título de la pintura que dio nombre al impresionismo?",
+      "options": [
+        {
+          "correct": true,
+          "choice": "Impresión, sol naciente"
+        },
+        {
+          "correct": false,
+          "choice": "El carro de heno"
+        },
+        {
+          "correct": false,
+          "choice": "La noche estrellada"
+        },
+        {
+          "correct": false,
+          "choice": "Almuerzo sobre la hierba"
+        }
+      ]
+    }
+  ]
+}

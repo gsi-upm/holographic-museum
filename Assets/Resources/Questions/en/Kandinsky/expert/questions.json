@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Kandinsky believed that visual art was closely related to which other art form?",
+      "options": [
+        { "correct": false, "choice": "Poetry" },
+        { "correct": true, "choice": "Music" },
+        { "correct": false, "choice": "Dance" },
+        { "correct": false, "choice": "Architecture" }
+      ]
+    },
+    {
+      "question": "Kandinsky was influenced by the idea that colors could:",
+      "options": [
+        { "correct": true, "choice": "Have spiritual and emotional effects" },
+        { "correct": false, "choice": "Change depending on light sources" },
+        { "correct": false, "choice": "Be used only symbolically" },
+        { "correct": false, "choice": "Always be used realistically" }
+      ]
+    },
+    {
+      "question": "Kandinsky was one of the founding members of which art group?",
+      "options": [
+        { "correct": false, "choice": "The Pre-Raphaelites" },
+        { "correct": false, "choice": "Futurist Manifesto Group" },
+        { "correct": true, "choice": "Der Blaue Reiter (The Blue Rider)" },
+        { "correct": false, "choice": "The Hudson River School" }
+      ]
+    },
+    {
+      "question": "Which profession did Kandinsky train in before becoming an artist?",
+      "options": [
+        { "correct": false, "choice": "Engineering" },
+        { "correct": true, "choice": "Law" },
+        { "correct": false, "choice": "Architecture" },
+        { "correct": false, "choice": "Medicine" }
+      ]
+    }
+  ]
+}

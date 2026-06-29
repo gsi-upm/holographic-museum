@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿Qué pintura de Van Gogh muestra el interior de su habitación en Arlés?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Terraza de café por la noche"
+        },
+        {
+          "correct": true,
+          "choice": "El dormitorio"
+        },
+        {
+          "correct": false,
+          "choice": "Campo de trigo con cuervos"
+        },
+        {
+          "correct": false,
+          "choice": "El café de noche"
+        }
+      ]
+    },
+    {
+      "question": "¿En qué ciudad francesa creó Van Gogh muchas de sus pinturas más famosas?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "París"
+        },
+        {
+          "correct": true,
+          "choice": "Arlés"
+        },
+        {
+          "correct": false,
+          "choice": "Ruan"
+        },
+        {
+          "correct": false,
+          "choice": "Giverny"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué pintura de Van Gogh es conocida por representar flores amarillas en un jarrón?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Lirios"
+        },
+        {
+          "correct": true,
+          "choice": "Girasoles"
+        },
+        {
+          "correct": false,
+          "choice": "Olivos"
+        },
+        {
+          "correct": false,
+          "choice": "Almendro en flor"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué tema aparece en la pintura de Van Gogh 'Campo de trigo con cuervos'?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Un mercado abarrotado"
+        },
+        {
+          "correct": false,
+          "choice": "Una mujer leyendo en interiores"
+        },
+        {
+          "correct": true,
+          "choice": "Un campo de trigo bajo un cielo dramático"
+        },
+        {
+          "correct": false,
+          "choice": "Un bodegón con fruta"
+        }
+      ]
+    }
+  ]
+}

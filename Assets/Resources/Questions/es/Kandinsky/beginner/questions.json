@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿Quién fue Wassily Kandinsky?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Un escultor famoso"
+        },
+        {
+          "correct": false,
+          "choice": "Un arquitecto"
+        },
+        {
+          "correct": false,
+          "choice": "Una bailarina de ballet"
+        },
+        {
+          "correct": true,
+          "choice": "Un pintor abstracto pionero"
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál de estos elementos se encuentra a menudo en las pinturas de Kandinsky?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Retratos realistas"
+        },
+        {
+          "correct": false,
+          "choice": "Paisajes con animales"
+        },
+        {
+          "correct": true,
+          "choice": "Formas geométricas como círculos y líneas"
+        },
+        {
+          "correct": false,
+          "choice": "Representaciones detalladas de edificios"
+        }
+      ]
+    },
+    {
+      "question": "Kandinsky creía que los colores podían:",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Usarse solo para representaciones realistas"
+        },
+        {
+          "correct": true,
+          "choice": "Expresar emociones y sentimientos"
+        },
+        {
+          "correct": false,
+          "choice": "No tener ningún significado"
+        },
+        {
+          "correct": false,
+          "choice": "Representar solo la naturaleza"
+        }
+      ]
+    },
+    {
+      "question": "¿Con qué movimiento se asocia a Kandinsky?",
+      "options": [
+        {
+          "correct": true,
+          "choice": "Arte abstracto"
+        },
+        {
+          "correct": false,
+          "choice": "Impresionismo"
+        },
+        {
+          "correct": false,
+          "choice": "Cubismo"
+        },
+        {
+          "correct": false,
+          "choice": "Surrealismo"
+        }
+      ]
+    }
+  ]
+}

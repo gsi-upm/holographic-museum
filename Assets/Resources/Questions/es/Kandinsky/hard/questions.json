@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿De qué estilo se considera pionero a Kandinsky?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Hiperrealismo"
+        },
+        {
+          "correct": false,
+          "choice": "Fotorrealismo"
+        },
+        {
+          "correct": true,
+          "choice": "Arte abstracto"
+        },
+        {
+          "correct": false,
+          "choice": "Neoclasicismo"
+        }
+      ]
+    },
+    {
+      "question": "Kandinsky creía que el arte podía evocar:",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Hechos científicos"
+        },
+        {
+          "correct": true,
+          "choice": "Sonido y música"
+        },
+        {
+          "correct": false,
+          "choice": "Cronologías históricas"
+        },
+        {
+          "correct": false,
+          "choice": "Estilos arquitectónicos"
+        }
+      ]
+    },
+    {
+      "question": "¿De qué país era originario Kandinsky?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Francia"
+        },
+        {
+          "correct": true,
+          "choice": "Rusia"
+        },
+        {
+          "correct": false,
+          "choice": "Alemania"
+        },
+        {
+          "correct": false,
+          "choice": "Austria"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué tipo de formas aparecen a menudo en la obra de Kandinsky?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Rostros realistas"
+        },
+        {
+          "correct": false,
+          "choice": "Animales y naturaleza"
+        },
+        {
+          "correct": false,
+          "choice": "Monumentos arquitectónicos"
+        },
+        {
+          "correct": true,
+          "choice": "Círculos y líneas"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "How many versions of Jeff Koons’s 'Balloon Dog' were produced in stainless steel?",
+      "options": [
+        { "correct": true, "choice": "Five" },
+        { "correct": false, "choice": "One" },
+        { "correct": false, "choice": "Ten" },
+        { "correct": false, "choice": "Twenty" }
+      ]
+    },
+    {
+      "question": "What does Koons often explore through the reflective surface of 'Balloon Dog'?",
+      "options": [
+        { "correct": false, "choice": "The physics of color blending" },
+        { "correct": true, "choice": "The relationship between the viewer and the object" },
+        { "correct": false, "choice": "Mechanical engineering of balloons" },
+        { "correct": false, "choice": "Advertising techniques" }
+      ]
+    },
+    {
+      "question": "What artistic technique is used to give 'Balloon Dog' its mirror finish?",
+      "options": [
+        { "correct": false, "choice": "Spray painting" },
+        { "correct": true, "choice": "Polishing of stainless steel" },
+        { "correct": false, "choice": "Use of glass overlays" },
+        { "correct": false, "choice": "Bronze casting" }
+      ]
+    },
+    {
+      "question": "Which aspect of consumer culture is referenced in 'Balloon Dog'?",
+      "options": [
+        { "correct": false, "choice": "Environmental destruction" },
+        { "correct": false, "choice": "Sports branding" },
+        { "correct": true, "choice": "Mass production of simple, joyful objects" },
+        { "correct": false, "choice": "Military propaganda" }
+      ]
+    }
+  ]
+}

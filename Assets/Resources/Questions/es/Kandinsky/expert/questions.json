@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "Kandinsky creía que el arte visual estaba estrechamente relacionado con ¿qué otra forma de arte?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Poesía"
+        },
+        {
+          "correct": true,
+          "choice": "Música"
+        },
+        {
+          "correct": false,
+          "choice": "Danza"
+        },
+        {
+          "correct": false,
+          "choice": "Arquitectura"
+        }
+      ]
+    },
+    {
+      "question": "Kandinsky estuvo influido por la idea de que los colores podían:",
+      "options": [
+        {
+          "correct": true,
+          "choice": "Tener efectos espirituales y emocionales"
+        },
+        {
+          "correct": false,
+          "choice": "Cambiar según las fuentes de luz"
+        },
+        {
+          "correct": false,
+          "choice": "Usarse solo de forma simbólica"
+        },
+        {
+          "correct": false,
+          "choice": "Usarse siempre de forma realista"
+        }
+      ]
+    },
+    {
+      "question": "¿De qué grupo artístico fue Kandinsky uno de los miembros fundadores?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Los prerrafaelitas"
+        },
+        {
+          "correct": false,
+          "choice": "Grupo del Manifiesto Futurista"
+        },
+        {
+          "correct": true,
+          "choice": "Der Blaue Reiter (El Jinete Azul)"
+        },
+        {
+          "correct": false,
+          "choice": "La Escuela del río Hudson"
+        }
+      ]
+    },
+    {
+      "question": "¿En qué profesión se formó Kandinsky antes de convertirse en artista?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Ingeniería"
+        },
+        {
+          "correct": true,
+          "choice": "Derecho"
+        },
+        {
+          "correct": false,
+          "choice": "Arquitectura"
+        },
+        {
+          "correct": false,
+          "choice": "Medicina"
+        }
+      ]
+    }
+  ]
+}

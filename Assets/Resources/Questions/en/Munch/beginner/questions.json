@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Which country was Edvard Munch born in?",
+      "options": [
+        { "correct": false, "choice": "Sweden" },
+        { "correct": true, "choice": "Norway" },
+        { "correct": false, "choice": "Denmark" },
+        { "correct": false, "choice": "Germany" }
+      ]
+    },
+    {
+      "question": "Which famous painting by Munch shows a figure with an anguished expression?",
+      "options": [
+        { "correct": false, "choice": "The Kiss" },
+        { "correct": true, "choice": "The Scream" },
+        { "correct": false, "choice": "Madonna" },
+        { "correct": false, "choice": "Starry Night" }
+      ]
+    },
+    {
+      "question": "Edvard Munch is most strongly associated with which artistic approach?",
+      "options": [
+        { "correct": false, "choice": "Cubism" },
+        { "correct": false, "choice": "Impressionism" },
+        { "correct": true, "choice": "Expressionism" },
+        { "correct": false, "choice": "Neoclassicism" }
+      ]
+    },
+    {
+      "question": "What emotion is most famously conveyed in Munch's 'The Scream'?",
+      "options": [
+        { "correct": false, "choice": "Joy" },
+        { "correct": false, "choice": "Calm" },
+        { "correct": true, "choice": "Anxiety" },
+        { "correct": false, "choice": "Pride" }
+      ]
+    }
+  ]
+}

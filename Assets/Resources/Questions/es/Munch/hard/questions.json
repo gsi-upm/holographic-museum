@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿Qué pintura de Munch representa a dos figuras abrazándose estrechamente?",
+      "options": [
+        {
+          "correct": true,
+          "choice": "El beso"
+        },
+        {
+          "correct": false,
+          "choice": "Cenizas"
+        },
+        {
+          "correct": false,
+          "choice": "Ansiedad"
+        },
+        {
+          "correct": false,
+          "choice": "La niña enferma"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué tema personal influyó fuertemente en muchas de las obras de Munch?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Vida en la corte real"
+        },
+        {
+          "correct": true,
+          "choice": "Enfermedad, muerte y sufrimiento emocional"
+        },
+        {
+          "correct": false,
+          "choice": "Batallas mitológicas"
+        },
+        {
+          "correct": false,
+          "choice": "Progreso industrial"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué obra de Munch está estrechamente conectada con la enfermedad y la tragedia familiar?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "La danza de la vida"
+        },
+        {
+          "correct": false,
+          "choice": "Celos"
+        },
+        {
+          "correct": true,
+          "choice": "La niña enferma"
+        },
+        {
+          "correct": false,
+          "choice": "Trabajadores camino a casa"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué tipo de escenario aparece detrás de la figura en 'El grito'?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Un bosque oscuro"
+        },
+        {
+          "correct": true,
+          "choice": "Un puente con un cielo dramático"
+        },
+        {
+          "correct": false,
+          "choice": "Una plaza urbana abarrotada"
+        },
+        {
+          "correct": false,
+          "choice": "Un dormitorio tranquilo"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Who created the artwork 'Balloon Dog'?",
+      "options": [
+        { "correct": false, "choice": "Andy Warhol" },
+        { "correct": false, "choice": "Pablo Picasso" },
+        { "correct": true, "choice": "Jeff Koons" },
+        { "correct": false, "choice": "Damien Hirst" }
+      ]
+    },
+    {
+      "question": "What material is 'Balloon Dog' made of?",
+      "options": [
+        { "correct": true, "choice": "High-polished stainless steel" },
+        { "correct": false, "choice": "Glass" },
+        { "correct": false, "choice": "Wood" },
+        { "correct": false, "choice": "Clay" }
+      ]
+    },
+    {
+      "question": "What does 'Balloon Dog' look like?",
+      "options": [
+        { "correct": false, "choice": "A real-life dog" },
+        { "correct": false, "choice": "An abstract sculpture of a cat" },
+        { "correct": false, "choice": "A painting of a balloon" },
+        { "correct": true, "choice": "A shiny balloon shaped like a dog" }
+      ]
+    },
+    {
+      "question": "What art movement is Jeff Koons often associated with?",
+      "options": [
+        { "correct": false, "choice": "Renaissance art" },
+        { "correct": true, "choice": "Pop art" },
+        { "correct": false, "choice": "Impressionism" },
+        { "correct": false, "choice": "Cubism" }
+      ]
+    }
+  ]
+}

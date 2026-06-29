@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿Qué pintura de Picasso de 1907, influida por el arte africano, se considera revolucionaria en el arte moderno?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "El viejo guitarrista"
+        },
+        {
+          "correct": true,
+          "choice": "Las señoritas de Aviñón"
+        },
+        {
+          "correct": false,
+          "choice": "Mujer con sombrero"
+        },
+        {
+          "correct": false,
+          "choice": "Desnudo bajando una escalera"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué fase siguió al Periodo Azul de Picasso e introdujo tonos rosados y naranjas más cálidos?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Periodo analítico"
+        },
+        {
+          "correct": false,
+          "choice": "Periodo clásico"
+        },
+        {
+          "correct": true,
+          "choice": "Periodo rosa"
+        },
+        {
+          "correct": false,
+          "choice": "Periodo surrealista"
+        }
+      ]
+    },
+    {
+      "question": "En 'Guernica', ¿qué animal se interpreta de forma destacada como símbolo de brutalidad u oscuridad?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Caballo"
+        },
+        {
+          "correct": false,
+          "choice": "Paloma"
+        },
+        {
+          "correct": true,
+          "choice": "Toro"
+        },
+        {
+          "correct": false,
+          "choice": "Perro"
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál de estas obras de Picasso es una composición cubista sintética con tres intérpretes enmascarados?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Muchacha ante el espejo"
+        },
+        {
+          "correct": false,
+          "choice": "La vida"
+        },
+        {
+          "correct": true,
+          "choice": "Tres músicos"
+        },
+        {
+          "correct": false,
+          "choice": "Masacre en Corea"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿En qué país nació Vincent van Gogh?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Francia"
+        },
+        {
+          "correct": true,
+          "choice": "Países Bajos"
+        },
+        {
+          "correct": false,
+          "choice": "Bélgica"
+        },
+        {
+          "correct": false,
+          "choice": "Alemania"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué famosa pintura de Van Gogh muestra un cielo nocturno arremolinado sobre un pueblo?",
+      "options": [
+        {
+          "correct": true,
+          "choice": "La noche estrellada"
+        },
+        {
+          "correct": false,
+          "choice": "Girasoles"
+        },
+        {
+          "correct": false,
+          "choice": "El dormitorio"
+        },
+        {
+          "correct": false,
+          "choice": "Lirios"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué flor pintó Van Gogh en una de sus series más famosas?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Rosas"
+        },
+        {
+          "correct": true,
+          "choice": "Girasoles"
+        },
+        {
+          "correct": false,
+          "choice": "Tulipanes"
+        },
+        {
+          "correct": false,
+          "choice": "Lirios"
+        }
+      ]
+    },
+    {
+      "question": "¿Por qué tipo de pincelada son más conocidas las pinturas de Van Gogh?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Suave e invisible"
+        },
+        {
+          "correct": false,
+          "choice": "Muy geométrica y plana"
+        },
+        {
+          "correct": true,
+          "choice": "Enérgica y expresiva"
+        },
+        {
+          "correct": false,
+          "choice": "Fotográfica y precisa"
+        }
+      ]
+    }
+  ]
+}

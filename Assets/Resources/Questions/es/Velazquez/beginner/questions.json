@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿Quién pintó 'Las Meninas'?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Pablo Picasso"
+        },
+        {
+          "correct": false,
+          "choice": "Leonardo da Vinci"
+        },
+        {
+          "correct": true,
+          "choice": "Diego Velázquez"
+        },
+        {
+          "correct": false,
+          "choice": "Claude Monet"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué tipo de pintura es 'Las Meninas'?",
+      "options": [
+        {
+          "correct": true,
+          "choice": "Un gran retrato de la familia real"
+        },
+        {
+          "correct": false,
+          "choice": "Un fresco religioso"
+        },
+        {
+          "correct": false,
+          "choice": "Una pintura de paisaje"
+        },
+        {
+          "correct": false,
+          "choice": "Una obra abstracta moderna"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué niña aparece en el centro de 'Las Meninas'?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Reina Isabel"
+        },
+        {
+          "correct": true,
+          "choice": "Infanta Margarita Teresa"
+        },
+        {
+          "correct": false,
+          "choice": "Santa Teresa"
+        },
+        {
+          "correct": false,
+          "choice": "Una bailarina famosa"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué característica única incluye 'Las Meninas'?",
+      "options": [
+        {
+          "correct": true,
+          "choice": "Un espejo que refleja al rey y la reina"
+        },
+        {
+          "correct": false,
+          "choice": "Estrellas pintadas en el cielo"
+        },
+        {
+          "correct": false,
+          "choice": "Una imagen del artista en un barco"
+        },
+        {
+          "correct": false,
+          "choice": "Una estatua dorada en el centro"
+        }
+      ]
+    }
+  ]
+}

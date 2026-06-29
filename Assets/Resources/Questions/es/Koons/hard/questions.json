@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿Qué serie incluye 'Balloon Dog' de Jeff Koons?",
+      "options": [
+        {
+          "correct": true,
+          "choice": "Serie Celebration"
+        },
+        {
+          "correct": false,
+          "choice": "Serie Pop"
+        },
+        {
+          "correct": false,
+          "choice": "Serie neobarroca"
+        },
+        {
+          "correct": false,
+          "choice": "Colección surrealista"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué sensación suele pretender evocar 'Balloon Dog'?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Tristeza y pérdida"
+        },
+        {
+          "correct": true,
+          "choice": "Alegría y nostalgia de la infancia"
+        },
+        {
+          "correct": false,
+          "choice": "Ira y protesta"
+        },
+        {
+          "correct": false,
+          "choice": "Devoción religiosa"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué apariencia tiene 'Balloon Dog' a pesar de su material?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Parece áspero y pesado"
+        },
+        {
+          "correct": false,
+          "choice": "Parece que se está derritiendo"
+        },
+        {
+          "correct": true,
+          "choice": "Parece ligero y delicado como un globo real"
+        },
+        {
+          "correct": false,
+          "choice": "Parece una nube"
+        }
+      ]
+    },
+    {
+      "question": "¿En qué década se creó 'Balloon Dog'?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Años 50"
+        },
+        {
+          "correct": true,
+          "choice": "Años 90"
+        },
+        {
+          "correct": false,
+          "choice": "Años 70"
+        },
+        {
+          "correct": false,
+          "choice": "Años 2010"
+        }
+      ]
+    }
+  ]
+}

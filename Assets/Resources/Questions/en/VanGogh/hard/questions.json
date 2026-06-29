@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Which Van Gogh painting shows the inside of his room in Arles?",
+      "options": [
+        { "correct": false, "choice": "Café Terrace at Night" },
+        { "correct": true, "choice": "The Bedroom" },
+        { "correct": false, "choice": "Wheatfield with Crows" },
+        { "correct": false, "choice": "The Night Café" }
+      ]
+    },
+    {
+      "question": "In which French town did Van Gogh create many of his most famous paintings?",
+      "options": [
+        { "correct": false, "choice": "Paris" },
+        { "correct": true, "choice": "Arles" },
+        { "correct": false, "choice": "Rouen" },
+        { "correct": false, "choice": "Giverny" }
+      ]
+    },
+    {
+      "question": "Which painting by Van Gogh is known for depicting yellow flowers in a vase?",
+      "options": [
+        { "correct": false, "choice": "Irises" },
+        { "correct": true, "choice": "Sunflowers" },
+        { "correct": false, "choice": "Olive Trees" },
+        { "correct": false, "choice": "Almond Blossom" }
+      ]
+    },
+    {
+      "question": "What subject appears in Van Gogh's painting 'Wheatfield with Crows'?",
+      "options": [
+        { "correct": false, "choice": "A crowded market" },
+        { "correct": false, "choice": "A woman reading indoors" },
+        { "correct": true, "choice": "A wheat field under a dramatic sky" },
+        { "correct": false, "choice": "A still life with fruit" }
+      ]
+    }
+  ]
+}

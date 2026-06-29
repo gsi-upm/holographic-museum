@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Which country was Pablo Picasso born in?",
+      "options": [
+        { "correct": true, "choice": "Spain" },
+        { "correct": false, "choice": "France" },
+        { "correct": false, "choice": "Italy" },
+        { "correct": false, "choice": "Mexico" }
+      ]
+    },
+    {
+      "question": "Which famous anti-war painting was created by Picasso?",
+      "options": [
+        { "correct": false, "choice": "The Starry Night" },
+        { "correct": true, "choice": "Guernica" },
+        { "correct": false, "choice": "Las Meninas" },
+        { "correct": false, "choice": "The Scream" }
+      ]
+    },
+    {
+      "question": "Picasso is most closely associated with which art movement?",
+      "options": [
+        { "correct": false, "choice": "Impressionism" },
+        { "correct": false, "choice": "Surrealism" },
+        { "correct": true, "choice": "Cubism" },
+        { "correct": false, "choice": "Baroque" }
+      ]
+    },
+    {
+      "question": "What is one of Picasso's most famous paintings featuring distorted figures and suffering during war?",
+      "options": [
+        { "correct": false, "choice": "Water Lilies" },
+        { "correct": false, "choice": "Girl with a Pearl Earring" },
+        { "correct": true, "choice": "Guernica" },
+        { "correct": false, "choice": "The Birth of Venus" }
+      ]
+    }
+  ]
+}

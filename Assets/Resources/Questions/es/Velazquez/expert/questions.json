@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿Cuál era el papel de Velázquez en la corte española?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Asesor militar"
+        },
+        {
+          "correct": false,
+          "choice": "Arquitecto principal"
+        },
+        {
+          "correct": true,
+          "choice": "Pintor de corte y aposentador real"
+        },
+        {
+          "correct": false,
+          "choice": "Dramaturgo real"
+        }
+      ]
+    },
+    {
+      "question": "'Las Meninas' se cita a menudo como un ejemplo temprano de:",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Puntillismo"
+        },
+        {
+          "correct": false,
+          "choice": "Fauvismo"
+        },
+        {
+          "correct": false,
+          "choice": "Arte óptico"
+        },
+        {
+          "correct": true,
+          "choice": "Metapintura y arte autorreferencial"
+        }
+      ]
+    },
+    {
+      "question": "Velázquez usó la composición de 'Las Meninas' para explorar:",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Detalle arquitectónico"
+        },
+        {
+          "correct": true,
+          "choice": "El acto de ver y ser visto"
+        },
+        {
+          "correct": false,
+          "choice": "Precisión histórica"
+        },
+        {
+          "correct": false,
+          "choice": "Descubrimiento científico"
+        }
+      ]
+    },
+    {
+      "question": "La profundidad espacial en 'Las Meninas' se refuerza mediante:",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Fondos de colores vivos"
+        },
+        {
+          "correct": true,
+          "choice": "El uso de un espejo y una puerta abierta"
+        },
+        {
+          "correct": false,
+          "choice": "El uso de encuadres diagonales"
+        },
+        {
+          "correct": false,
+          "choice": "Uso de pan de oro"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Who was Wassily Kandinsky?",
+      "options": [
+        { "correct": false, "choice": "A famous sculptor" },
+        { "correct": false, "choice": "An architect" },
+        { "correct": false, "choice": "A ballet dancer" },
+        { "correct": true, "choice": "A pioneering abstract painter" }
+      ]
+    },
+    {
+      "question": "Which of these elements is often found in Kandinsky's paintings?",
+      "options": [
+        { "correct": false, "choice": "Realistic portraits" },
+        { "correct": false, "choice": "Landscapes with animals" },
+        { "correct": true, "choice": "Geometric shapes like circles and lines" },
+        { "correct": false, "choice": "Detailed depictions of buildings" }
+      ]
+    },
+    {
+      "question": "Kandinsky believed that colors could:",
+      "options": [
+        { "correct": false, "choice": "Be used only for realistic depictions" },
+        { "correct": true, "choice": "Express emotions and feelings" },
+        { "correct": false, "choice": "Have no meaning at all" },
+        { "correct": false, "choice": "Only represent nature" }
+      ]
+    },
+    {
+      "question": "Which movement is Kandinsky associated with?",
+      "options": [
+        { "correct": true, "choice": "Abstract art" },
+        { "correct": false, "choice": "Impressionism" },
+        { "correct": false, "choice": "Cubism" },
+        { "correct": false, "choice": "Surrealism" }
+      ]
+    }
+  ]
+}

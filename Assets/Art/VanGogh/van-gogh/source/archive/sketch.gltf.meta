@@ -1,0 +1,80 @@
+fileFormatVersion: 2
+guid: fd7f7e24f23f44324937912effb8f62e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets/Art/VanGogh/van-gogh/source/archive/sketch.bin
+    assetPath: Assets/Art/VanGogh/van-gogh/source/archive/sketch.bin
+  - type: 1
+    originalUri: Assets/Art/VanGogh/van-gogh/source/archive/Brush_CelVinyl-700f3aa8-9a7c-2384-8b8a-ea028905dd8c-v10.0-MainTex.png
+    assetPath: Assets/Art/VanGogh/van-gogh/source/archive/Brush_CelVinyl-700f3aa8-9a7c-2384-8b8a-ea028905dd8c-v10.0-MainTex.png
+  - type: 1
+    originalUri: Assets/Art/VanGogh/van-gogh/source/archive/Brush_Paper-f1114e2e-eb8d-4fde-915a-6e653b54e9f5-v10.0-MainTex.png
+    assetPath: Assets/Art/VanGogh/van-gogh/source/archive/Brush_Paper-f1114e2e-eb8d-4fde-915a-6e653b54e9f5-v10.0-MainTex.png
+  - type: 1
+    originalUri: Assets/Art/VanGogh/van-gogh/source/archive/Brush_Paper-f1114e2e-eb8d-4fde-915a-6e653b54e9f5-v10.0-BumpMap.png
+    assetPath: Assets/Art/VanGogh/van-gogh/source/archive/Brush_Paper-f1114e2e-eb8d-4fde-915a-6e653b54e9f5-v10.0-BumpMap.png
+  - type: 1
+    originalUri: Assets/Art/VanGogh/van-gogh/source/archive/Brush_TaperedMarker-d90c6ad8-af0f-4b54-b422-e0f92abe1b3c-v10.0-MainTex.png
+    assetPath: Assets/Art/VanGogh/van-gogh/source/archive/Brush_TaperedMarker-d90c6ad8-af0f-4b54-b422-e0f92abe1b3c-v10.0-MainTex.png
+  - type: 1
+    originalUri: Assets/Art/VanGogh/van-gogh/source/archive/Brush_Marker-429ed64a-4e97-4466-84d3-145a861ef684-v10.0-MainTex.png
+    assetPath: Assets/Art/VanGogh/van-gogh/source/archive/Brush_Marker-429ed64a-4e97-4466-84d3-145a861ef684-v10.0-MainTex.png
+  - type: 1
+    originalUri: Assets/Art/VanGogh/van-gogh/source/archive/Brush_WetPaint-b67c0e81-ce6d-40a8-aeb0-ef036b081aa3-v10.0-MainTex.png
+    assetPath: Assets/Art/VanGogh/van-gogh/source/archive/Brush_WetPaint-b67c0e81-ce6d-40a8-aeb0-ef036b081aa3-v10.0-MainTex.png
+  - type: 1
+    originalUri: Assets/Art/VanGogh/van-gogh/source/archive/Brush_WetPaint-b67c0e81-ce6d-40a8-aeb0-ef036b081aa3-v10.0-BumpMap.png
+    assetPath: Assets/Art/VanGogh/van-gogh/source/archive/Brush_WetPaint-b67c0e81-ce6d-40a8-aeb0-ef036b081aa3-v10.0-BumpMap.png
+  - type: 1
+    originalUri: Assets/Art/VanGogh/van-gogh/source/archive/Brush_Ink-f5c336cf-5108-4b40-ade9-c687504385ab-v10.0-MainTex.png
+    assetPath: Assets/Art/VanGogh/van-gogh/source/archive/Brush_Ink-f5c336cf-5108-4b40-ade9-c687504385ab-v10.0-MainTex.png
+  - type: 1
+    originalUri: Assets/Art/VanGogh/van-gogh/source/archive/Brush_Ink-f5c336cf-5108-4b40-ade9-c687504385ab-v10.0-BumpMap.png
+    assetPath: Assets/Art/VanGogh/van-gogh/source/archive/Brush_Ink-f5c336cf-5108-4b40-ade9-c687504385ab-v10.0-BumpMap.png
+  - type: 1
+    originalUri: Assets/Art/VanGogh/van-gogh/source/archive/Brush_ThickPaint-75b32cf0-fdd6-4d89-a64b-e2a00b247b0f-v10.0-MainTex.png
+    assetPath: Assets/Art/VanGogh/van-gogh/source/archive/Brush_ThickPaint-75b32cf0-fdd6-4d89-a64b-e2a00b247b0f-v10.0-MainTex.png
+  - type: 1
+    originalUri: Assets/Art/VanGogh/van-gogh/source/archive/Brush_ThickPaint-75b32cf0-fdd6-4d89-a64b-e2a00b247b0f-v10.0-BumpMap.png
+    assetPath: Assets/Art/VanGogh/van-gogh/source/archive/Brush_ThickPaint-75b32cf0-fdd6-4d89-a64b-e2a00b247b0f-v10.0-BumpMap.png
+  - type: 1
+    originalUri: Assets/Art/VanGogh/van-gogh/source/archive/Brush_TaperedFlat-b468c1fb-f254-41ed-8ec9-57030bc5660c-v10.0-MainTex.png
+    assetPath: Assets/Art/VanGogh/van-gogh/source/archive/Brush_TaperedFlat-b468c1fb-f254-41ed-8ec9-57030bc5660c-v10.0-MainTex.png
+  - type: 1
+    originalUri: Assets/Art/VanGogh/van-gogh/source/archive/Brush_WigglyGraphite-5347acf0-a8e2-47b6-8346-30c70719d763-v10.0-MainTex.png
+    assetPath: Assets/Art/VanGogh/van-gogh/source/archive/Brush_WigglyGraphite-5347acf0-a8e2-47b6-8346-30c70719d763-v10.0-MainTex.png
+  - type: 1
+    originalUri: Assets/Art/VanGogh/van-gogh/source/archive/Brush_Splatter-8dc4a70c-d558-4efd-a5ed-d4e860f40dc3-v10.0-MainTex.png
+    assetPath: Assets/Art/VanGogh/van-gogh/source/archive/Brush_Splatter-8dc4a70c-d558-4efd-a5ed-d4e860f40dc3-v10.0-MainTex.png
+  - type: 1
+    originalUri: Assets/Art/VanGogh/van-gogh/source/archive/Brush_Light-2241cd32-8ba2-48a5-9ee7-2caef7e9ed62-v10.0-MainTex.png
+    assetPath: Assets/Art/VanGogh/van-gogh/source/archive/Brush_Light-2241cd32-8ba2-48a5-9ee7-2caef7e9ed62-v10.0-MainTex.png
+  reportItems:
+  - type: 2
+    code: 20
+    messages:
+    - GOOGLE_tilt_brush_material

@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "¿En qué país creó Diego Velázquez 'Las Meninas'?",
+      "options": [
+        { "correct": false, "choice": "Italia" },
+        { "correct": true, "choice": "España" },
+        { "correct": false, "choice": "Francia" },
+        { "correct": false, "choice": "Países Bajos" }
+      ]
+    },
+    {
+      "question": "¿Quién aparece pintando dentro de 'Las Meninas'?",
+      "options": [
+        { "correct": false, "choice": "El rey Felipe IV" },
+        { "correct": false, "choice": "La infanta Margarita" },
+        { "correct": true, "choice": "El propio Diego Velázquez" },
+        { "correct": false, "choice": "Pablo Picasso" }
+      ]
+    },
+    {
+      "question": "¿Qué hace que 'Las Meninas' fuera inusual para su época?",
+      "options": [
+        { "correct": false, "choice": "Usa únicamente colores blanco y negro" },
+        { "correct": true, "choice": "Incluye al artista dentro de la escena" },
+        { "correct": false, "choice": "Fue pintada al aire libre" },
+        { "correct": false, "choice": "Representa una escena de batalla" }
+      ]
+    },
+    {
+      "question": "¿Qué elemento de 'Las Meninas' ayuda a crear sensación de profundidad?",
+      "options": [
+        { "correct": false, "choice": "Un marco dorado" },
+        { "correct": false, "choice": "Grandes ventanas en el techo" },
+        { "correct": true, "choice": "Una puerta abierta al fondo" },
+        { "correct": false, "choice": "Un suelo rojo brillante" }
+      ]
+    }
+  ]
+}

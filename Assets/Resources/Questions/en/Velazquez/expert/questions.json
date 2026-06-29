@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "What was Velázquez’s role in the Spanish court?",
+      "options": [
+        { "correct": false, "choice": "Military advisor" },
+        { "correct": false, "choice": "Chief architect" },
+        { "correct": true, "choice": "Court painter and chamberlain" },
+        { "correct": false, "choice": "Royal playwright" }
+      ]
+    },
+    {
+      "question": "'Las Meninas' is often cited as an early example of:",
+      "options": [
+        { "correct": false, "choice": "Pointillism" },
+        { "correct": false, "choice": "Fauvism" },
+        { "correct": false, "choice": "Op art" },
+        { "correct": true, "choice": "Meta-painting and self-referential art" }
+      ]
+    },
+    {
+      "question": "Velázquez used the composition of 'Las Meninas' to explore:",
+      "options": [
+        { "correct": false, "choice": "Architectural detail" },
+        { "correct": true, "choice": "The act of seeing and being seen" },
+        { "correct": false, "choice": "Historical accuracy" },
+        { "correct": false, "choice": "Scientific discovery" }
+      ]
+    },
+    {
+      "question": "The spatial depth in 'Las Meninas' is enhanced by:",
+      "options": [
+        { "correct": false, "choice": "Bright colored backgrounds" },
+        { "correct": true, "choice": "The use of a mirror and open doorway" },
+        { "correct": false, "choice": "The use of diagonal frames" },
+        { "correct": false, "choice": "Use of gold leaf" }
+      ]
+    }
+  ]
+}

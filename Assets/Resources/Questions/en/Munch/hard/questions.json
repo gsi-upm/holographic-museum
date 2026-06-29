@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Which Munch painting depicts two figures embracing closely?",
+      "options": [
+        { "correct": true, "choice": "The Kiss" },
+        { "correct": false, "choice": "Ashes" },
+        { "correct": false, "choice": "Anxiety" },
+        { "correct": false, "choice": "The Sick Child" }
+      ]
+    },
+    {
+      "question": "Which personal theme strongly influenced many of Munch's works?",
+      "options": [
+        { "correct": false, "choice": "Royal court life" },
+        { "correct": true, "choice": "Illness, death, and emotional suffering" },
+        { "correct": false, "choice": "Mythological battles" },
+        { "correct": false, "choice": "Industrial progress" }
+      ]
+    },
+    {
+      "question": "Which work by Munch is closely connected to illness and family tragedy?",
+      "options": [
+        { "correct": false, "choice": "The Dance of Life" },
+        { "correct": false, "choice": "Jealousy" },
+        { "correct": true, "choice": "The Sick Child" },
+        { "correct": false, "choice": "Workers on Their Way Home" }
+      ]
+    },
+    {
+      "question": "What kind of setting appears behind the figure in 'The Scream'?",
+      "options": [
+        { "correct": false, "choice": "A dark forest" },
+        { "correct": true, "choice": "A bridge with a dramatic sky" },
+        { "correct": false, "choice": "A crowded city square" },
+        { "correct": false, "choice": "A quiet bedroom" }
+      ]
+    }
+  ]
+}

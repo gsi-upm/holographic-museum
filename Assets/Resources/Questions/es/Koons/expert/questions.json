@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿Cuántas versiones de 'Balloon Dog' de Jeff Koons se produjeron en acero inoxidable?",
+      "options": [
+        {
+          "correct": true,
+          "choice": "Cinco"
+        },
+        {
+          "correct": false,
+          "choice": "Uno"
+        },
+        {
+          "correct": false,
+          "choice": "Diez"
+        },
+        {
+          "correct": false,
+          "choice": "Veinte"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué explora a menudo Koons mediante la superficie reflectante de 'Balloon Dog'?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "La física de la mezcla de colores"
+        },
+        {
+          "correct": true,
+          "choice": "La relación entre el espectador y el objeto"
+        },
+        {
+          "correct": false,
+          "choice": "Ingeniería mecánica de globos"
+        },
+        {
+          "correct": false,
+          "choice": "Técnicas publicitarias"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué técnica artística se usa para dar a 'Balloon Dog' su acabado de espejo?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Pintura en aerosol"
+        },
+        {
+          "correct": true,
+          "choice": "Pulido del acero inoxidable"
+        },
+        {
+          "correct": false,
+          "choice": "Uso de capas de vidrio"
+        },
+        {
+          "correct": false,
+          "choice": "Fundición en bronce"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué aspecto de la cultura de consumo se referencia en 'Balloon Dog'?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Destrucción ambiental"
+        },
+        {
+          "correct": false,
+          "choice": "Imagen de marca deportiva"
+        },
+        {
+          "correct": true,
+          "choice": "Producción masiva de objetos sencillos y alegres"
+        },
+        {
+          "correct": false,
+          "choice": "Propaganda militar"
+        }
+      ]
+    }
+  ]
+}

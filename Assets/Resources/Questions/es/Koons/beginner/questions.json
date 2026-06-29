@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿Quién creó la obra 'Balloon Dog'?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Andy Warhol"
+        },
+        {
+          "correct": false,
+          "choice": "Pablo Picasso"
+        },
+        {
+          "correct": true,
+          "choice": "Jeff Koons"
+        },
+        {
+          "correct": false,
+          "choice": "Damien Hirst"
+        }
+      ]
+    },
+    {
+      "question": "¿De qué material está hecho 'Balloon Dog'?",
+      "options": [
+        {
+          "correct": true,
+          "choice": "Acero inoxidable muy pulido"
+        },
+        {
+          "correct": false,
+          "choice": "Vidrio"
+        },
+        {
+          "correct": false,
+          "choice": "Madera"
+        },
+        {
+          "correct": false,
+          "choice": "Arcilla"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué aspecto tiene 'Balloon Dog'?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Un perro real"
+        },
+        {
+          "correct": false,
+          "choice": "Una escultura abstracta de un gato"
+        },
+        {
+          "correct": false,
+          "choice": "Una pintura de un globo"
+        },
+        {
+          "correct": true,
+          "choice": "Un globo brillante con forma de perro"
+        }
+      ]
+    },
+    {
+      "question": "¿Con qué movimiento artístico se asocia a menudo a Jeff Koons?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Arte renacentista"
+        },
+        {
+          "correct": true,
+          "choice": "Arte pop"
+        },
+        {
+          "correct": false,
+          "choice": "Impresionismo"
+        },
+        {
+          "correct": false,
+          "choice": "Cubismo"
+        }
+      ]
+    }
+  ]
+}

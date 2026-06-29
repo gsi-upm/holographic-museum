@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿Quién fue Salvador Dalí?",
+      "options": [
+        {
+          "correct": true,
+          "choice": "Un famoso artista surrealista"
+        },
+        {
+          "correct": false,
+          "choice": "Un compositor clásico"
+        },
+        {
+          "correct": false,
+          "choice": "Un arquitecto del Renacimiento"
+        },
+        {
+          "correct": false,
+          "choice": "Un escultor abstracto"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué famosa pintura creó Salvador Dalí?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "La noche estrellada"
+        },
+        {
+          "correct": false,
+          "choice": "Guernica"
+        },
+        {
+          "correct": true,
+          "choice": "La persistencia de la memoria"
+        },
+        {
+          "correct": false,
+          "choice": "Nenúfares"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué característica inusual aparece a menudo en las pinturas de Dalí?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Coches voladores"
+        },
+        {
+          "correct": true,
+          "choice": "Relojes derretidos"
+        },
+        {
+          "correct": false,
+          "choice": "Letreros de neón"
+        },
+        {
+          "correct": false,
+          "choice": "Paisajes urbanos realistas"
+        }
+      ]
+    },
+    {
+      "question": "¿Con qué movimiento artístico se asocia a Salvador Dalí?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Impresionismo"
+        },
+        {
+          "correct": false,
+          "choice": "Cubismo"
+        },
+        {
+          "correct": true,
+          "choice": "Surrealismo"
+        },
+        {
+          "correct": false,
+          "choice": "Barroco"
+        }
+      ]
+    }
+  ]
+}

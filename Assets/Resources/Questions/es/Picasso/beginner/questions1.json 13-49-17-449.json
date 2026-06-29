@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿En qué país nació Pablo Picasso?",
+      "options": [
+        {
+          "correct": true,
+          "choice": "España"
+        },
+        {
+          "correct": false,
+          "choice": "Francia"
+        },
+        {
+          "correct": false,
+          "choice": "Italia"
+        },
+        {
+          "correct": false,
+          "choice": "México"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué famosa pintura antibélica fue creada por Picasso?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "La noche estrellada"
+        },
+        {
+          "correct": true,
+          "choice": "Guernica"
+        },
+        {
+          "correct": false,
+          "choice": "Las Meninas"
+        },
+        {
+          "correct": false,
+          "choice": "El grito"
+        }
+      ]
+    },
+    {
+      "question": "¿Con qué movimiento artístico se asocia más estrechamente a Picasso?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Impresionismo"
+        },
+        {
+          "correct": false,
+          "choice": "Surrealismo"
+        },
+        {
+          "correct": true,
+          "choice": "Cubismo"
+        },
+        {
+          "correct": false,
+          "choice": "Barroco"
+        }
+      ]
+    },
+    {
+      "question": "¿Cuál es una de las pinturas más famosas de Picasso con figuras distorsionadas y sufrimiento durante la guerra?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Nenúfares"
+        },
+        {
+          "correct": false,
+          "choice": "La joven de la perla"
+        },
+        {
+          "correct": true,
+          "choice": "Guernica"
+        },
+        {
+          "correct": false,
+          "choice": "El nacimiento de Venus"
+        }
+      ]
+    }
+  ]
+}

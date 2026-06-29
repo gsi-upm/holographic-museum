@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Which country was Claude Monet born in?",
+      "options": [
+        { "correct": true, "choice": "France" },
+        { "correct": false, "choice": "Italy" },
+        { "correct": false, "choice": "Spain" },
+        { "correct": false, "choice": "Belgium" }
+      ]
+    },
+    {
+      "question": "Claude Monet is most closely associated with which art movement?",
+      "options": [
+        { "correct": true, "choice": "Impressionism" },
+        { "correct": false, "choice": "Cubism" },
+        { "correct": false, "choice": "Surrealism" },
+        { "correct": false, "choice": "Baroque" }
+      ]
+    },
+    {
+      "question": "Which natural subject appears in one of Monet's most famous series of paintings?",
+      "options": [
+        { "correct": true, "choice": "Water lilies" },
+        { "correct": false, "choice": "Sunflowers" },
+        { "correct": false, "choice": "Olive trees" },
+        { "correct": false, "choice": "Mountains" }
+      ]
+    },
+    {
+      "question": "What is the title of the painting that gave Impressionism its name?",
+      "options": [
+        { "correct": true, "choice": "Impression, Sunrise" },
+        { "correct": false, "choice": "The Hay Wain" },
+        { "correct": false, "choice": "The Starry Night" },
+        { "correct": false, "choice": "The Luncheon on the Grass" }
+      ]
+    }
+  ]
+}

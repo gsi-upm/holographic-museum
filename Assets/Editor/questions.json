@@ -1,0 +1,88 @@
+{
+  "questions": [
+    {
+      "pregunta": "¿Quién pintó Las Meninas?",
+      "respuestas": [
+        {
+          "texto": "Diego Velázquez",
+          "correcto": true
+        },
+        {
+          "texto": "Francisco Goya",
+          "correcto": false
+        },
+        {
+          "texto": "Pablo Picasso",
+          "correcto": false
+        },
+        {
+          "texto": "Salvador Dalí",
+          "correcto": false
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué museo se encuentra Las Meninas?",
+      "respuestas": [
+        {
+          "texto": "Museo del Prado",
+          "correcto": true
+        },
+        {
+          "texto": "Museo Reina Sofía",
+          "correcto": false
+        },
+        {
+          "texto": "Museo Thyssen-Bornemisza",
+          "correcto": false
+        },
+        {
+          "texto": "Louvre",
+          "correcto": false
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué escena representa Las Meninas?",
+      "respuestas": [
+        {
+          "texto": "La infanta Margarita con sus damas de honor y otros personajes de la corte",
+          "correcto": true
+        },
+        {
+          "texto": "Un paisaje campestre",
+          "correcto": false
+        },
+        {
+          "texto": "Una naturaleza muerta",
+          "correcto": false
+        },
+        {
+          "texto": "Un retrato ecuestre",
+          "correcto": false
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué siglo se pintó Las Meninas?",
+      "respuestas": [
+        {
+          "texto": "XVII",
+          "correcto": true
+        },
+        {
+          "texto": "XVI",
+          "correcto": false
+        },
+        {
+          "texto": "XVIII",
+          "correcto": false
+        },
+        {
+          "texto": "XIX",
+          "correcto": false
+        }
+      ]
+    }
+  ]
+}

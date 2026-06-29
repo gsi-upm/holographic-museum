@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿En qué asilo ingresó Van Gogh, donde pintó 'La noche estrellada'?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Hospital de la Salpêtrière"
+        },
+        {
+          "correct": true,
+          "choice": "Saint-Paul-de-Mausole"
+        },
+        {
+          "correct": false,
+          "choice": "Hôtel-Dieu"
+        },
+        {
+          "correct": false,
+          "choice": "Charenton"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué obra de Van Gogh destaca por su composición de inspiración japonesa y ramas en flor sobre un cielo azul?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Los comedores de patatas"
+        },
+        {
+          "correct": true,
+          "choice": "Almendro en flor"
+        },
+        {
+          "correct": false,
+          "choice": "El viñedo rojo"
+        },
+        {
+          "correct": false,
+          "choice": "La iglesia de Auvers"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué pintura temprana de Van Gogh representa a campesinos reunidos alrededor de una mesa comiendo una comida sencilla?",
+      "options": [
+        {
+          "correct": true,
+          "choice": "Los comedores de patatas"
+        },
+        {
+          "correct": false,
+          "choice": "El sembrador"
+        },
+        {
+          "correct": false,
+          "choice": "El café de noche"
+        },
+        {
+          "correct": false,
+          "choice": "La casa amarilla"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué cualidad recurrente en la obra madura de Van Gogh contribuyó más a su influencia posterior en el expresionismo?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Equilibrio clásico estricto"
+        },
+        {
+          "correct": false,
+          "choice": "Imitación cuidadosa de técnicas renacentistas"
+        },
+        {
+          "correct": true,
+          "choice": "Color cargado de emoción y pincelada enérgica"
+        },
+        {
+          "correct": false,
+          "choice": "Realismo académico detallado"
+        }
+      ]
+    }
+  ]
+}

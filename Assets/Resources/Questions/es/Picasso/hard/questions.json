@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿Qué pintura de Picasso se considera a menudo un paso clave hacia el desarrollo del cubismo?",
+      "options": [
+        {
+          "correct": true,
+          "choice": "Las señoritas de Aviñón"
+        },
+        {
+          "correct": false,
+          "choice": "La mujer que llora"
+        },
+        {
+          "correct": false,
+          "choice": "Muchacha ante el espejo"
+        },
+        {
+          "correct": false,
+          "choice": "Tres músicos"
+        }
+      ]
+    },
+    {
+      "question": "¿Por qué rasgo se caracteriza principalmente el Periodo Azul de Picasso?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Paisajes luminosos y escenas al aire libre"
+        },
+        {
+          "correct": true,
+          "choice": "Temas tristes pintados en tonos azules"
+        },
+        {
+          "correct": false,
+          "choice": "Bodegones geométricos en colores cálidos"
+        },
+        {
+          "correct": false,
+          "choice": "Escenas religiosas con fondos dorados"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué pintura de Picasso representa el bombardeo de una localidad vasca durante la Guerra Civil española?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "La vida"
+        },
+        {
+          "correct": false,
+          "choice": "Arlequín"
+        },
+        {
+          "correct": true,
+          "choice": "Guernica"
+        },
+        {
+          "correct": false,
+          "choice": "El viejo guitarrista"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué tema se muestra en la pintura de Picasso 'La mujer que llora'?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Una bailarina actuando en el escenario"
+        },
+        {
+          "correct": true,
+          "choice": "Una mujer llorando con un pañuelo"
+        },
+        {
+          "correct": false,
+          "choice": "Una madre y un niño en un jardín"
+        },
+        {
+          "correct": false,
+          "choice": "Un grupo de músicos disfrazados"
+        }
+      ]
+    }
+  ]
+}

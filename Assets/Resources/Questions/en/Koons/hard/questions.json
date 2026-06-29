@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Which series includes Jeff Koons’s 'Balloon Dog'?",
+      "options": [
+        { "correct": true, "choice": "Celebration series" },
+        { "correct": false, "choice": "Pop series" },
+        { "correct": false, "choice": "Neo-Baroque series" },
+        { "correct": false, "choice": "Surrealist collection" }
+      ]
+    },
+    {
+      "question": "What feeling is 'Balloon Dog' often intended to evoke?",
+      "options": [
+        { "correct": false, "choice": "Sadness and loss" },
+        { "correct": true, "choice": "Joy and childhood nostalgia" },
+        { "correct": false, "choice": "Anger and protest" },
+        { "correct": false, "choice": "Religious devotion" }
+      ]
+    },
+    {
+      "question": "How does 'Balloon Dog' appear despite its material?",
+      "options": [
+        { "correct": false, "choice": "It looks rough and heavy" },
+        { "correct": false, "choice": "It appears to be melting" },
+        { "correct": true, "choice": "It looks light and delicate like a real balloon" },
+        { "correct": false, "choice": "It looks like a cloud" }
+      ]
+    },
+    {
+      "question": "In which decade was 'Balloon Dog' created?",
+      "options": [
+        { "correct": false, "choice": "1950s" },
+        { "correct": true, "choice": "1990s" },
+        { "correct": false, "choice": "1970s" },
+        { "correct": false, "choice": "2010s" }
+      ]
+    }
+  ]
+}

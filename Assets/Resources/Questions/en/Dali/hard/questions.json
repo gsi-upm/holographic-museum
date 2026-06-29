@@ -1,0 +1,40 @@
+{
+  "trivia": [
+    {
+      "question": "Which artistic movement did Dalí help popularize?",
+      "options": [
+        { "correct": false, "choice": "Futurism" },
+        { "correct": true, "choice": "Surrealism" },
+        { "correct": false, "choice": "Minimalism" },
+        { "correct": false, "choice": "Conceptual Art" }
+      ]
+    },
+    {
+      "question": "Dalí's signature element in paintings is often:",
+      "options": [
+        { "correct": false, "choice": "Geometric precision" },
+        { "correct": false, "choice": "Photographic realism" },
+        { "correct": false, "choice": "Political symbols" },
+        { "correct": true, "choice": "Dreamlike imagery" }
+      ]
+    },
+    {
+      "question": "Dalí had a famous mustache that became a symbol of his:",
+      "options": [
+        { "correct": true, "choice": "Eccentric personality" },
+        { "correct": false, "choice": "Love of the circus" },
+        { "correct": false, "choice": "Interest in sports" },
+        { "correct": false, "choice": "Military background" }
+      ]
+    },
+    {
+      "question": "Dalí collaborated with which major entertainment company?",
+      "options": [
+        { "correct": false, "choice": "Pixar" },
+        { "correct": true, "choice": "Disney" },
+        { "correct": false, "choice": "Universal Studios" },
+        { "correct": false, "choice": "DreamWorks" }
+      ]
+    }
+  ]
+}

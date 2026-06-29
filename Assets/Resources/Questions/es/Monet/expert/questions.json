@@ -1,0 +1,88 @@
+{
+  "trivia": [
+    {
+      "question": "¿Dónde creó Monet muchas de sus famosas pinturas de nenúfares?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Arlés"
+        },
+        {
+          "correct": true,
+          "choice": "Giverny"
+        },
+        {
+          "correct": false,
+          "choice": "Madrid"
+        },
+        {
+          "correct": false,
+          "choice": "Viena"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué estructura pintó Monet repetidamente en una famosa serie que exploraba la luz y la atmósfera?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "La Torre Eiffel"
+        },
+        {
+          "correct": true,
+          "choice": "Catedral de Ruan"
+        },
+        {
+          "correct": false,
+          "choice": "El Coliseo"
+        },
+        {
+          "correct": false,
+          "choice": "Interior de Notre-Dame de París"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué le interesaba especialmente capturar a Monet en sus pinturas?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Precisión histórica exacta"
+        },
+        {
+          "correct": true,
+          "choice": "La luz y la atmósfera cambiantes"
+        },
+        {
+          "correct": false,
+          "choice": "Simbolismo religioso"
+        },
+        {
+          "correct": false,
+          "choice": "Narraciones mitológicas detalladas"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué serie de Monet se centra en montones de grano cosechado pintados bajo distintas condiciones?",
+      "options": [
+        {
+          "correct": false,
+          "choice": "Álamos"
+        },
+        {
+          "correct": true,
+          "choice": "Almiares"
+        },
+        {
+          "correct": false,
+          "choice": "El puente japonés"
+        },
+        {
+          "correct": false,
+          "choice": "Parlamento"
+        }
+      ]
+    }
+  ]
+}
