@@ -7,8 +7,8 @@ repo para que el proyecto funcione.
 ## 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
+git clone https://github.com/gsi-upm/holographic-museum
+cd holographic-museum
 ```
 
 Si el repo usa Git LFS (para los assets de Camila, Whisper y `sunday in the
@@ -16,7 +16,7 @@ park.fbx`), asegúrate de tener LFS instalado antes de clonar:
 
 ```bash
 git lfs install
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/gsi-upm/holographic-museum/tree/main
 ```
 
 ## 2. Descargar el modelo de TTS (Kokoro)
