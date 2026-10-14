@@ -19,3 +19,5 @@
 Assets/avatar/Camila[[:space:]]V4/Camila_V4.fbm/*.png filter=lfs diff=lfs merge=lfs -text
 Assets/inference-engine-whisper-tiny/models/*.onnx filter=lfs diff=lfs merge=lfs -text
 FINAL_SCENARIOS/Holo-Art[[:space:]]Museum.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+FINAL_SCENARIOS/*.zip filter=lfs diff=lfs merge=lfs -text
